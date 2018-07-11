@@ -47,3 +47,4 @@ Route::get('/contacto/{nombre?}', function ($nombre = "Mike") {
     	"nombre"=> $nombre
     ));
  });
+//modificado
